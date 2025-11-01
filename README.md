@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Taher Mustafa  
+# 👋 Hi, I'm Taher Mustafa Hamid
 
 🎓 **BCA (Cloud Technology & Information Security)**  
 📍 Chaitanya Deemed University | 2023 – 2026  
