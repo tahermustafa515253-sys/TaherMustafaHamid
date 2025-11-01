@@ -2,6 +2,7 @@
 
 🎓 **BCA (Cloud Technology & Information Security)**  
 📍 Chaitanya Deemed University | 2023 – 2026  
+📍 Currently in Hyderabad,, India.
 
 I’m passionate about **cybersecurity, penetration testing, and network defense**.  
 Currently completing the **Google Cybersecurity Professional Certificate** and actively learning through **TryHackMe**.  
